@@ -81,3 +81,8 @@ set represent by `[]`
 `[0-9] and [\d] same`
 
 * [demo](https://regexr.com/3nt82)
+
+---
+
+* [previous](https://github.com/code4mk/lets-regex/blob/master/basic.md)
+* [Next](https://github.com/code4mk/lets-regex/blob/master/lookahead.md)

@@ -96,3 +96,8 @@
 ```
 
 * [ demo](https://regexr.com/3ns23)
+
+---
+
+* [previous](https://github.com/code4mk/lets-regex/blob/master/README.md)
+* [Next](https://github.com/code4mk/lets-regex/blob/master/group-set.md)
