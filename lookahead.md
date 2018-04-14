@@ -1,5 +1,5 @@
 
-
+[go to code4mk for better view](https://code4mk.org/javascript-developer/js/regex)
 
 ## positive lookahead
 

@@ -1,4 +1,6 @@
 
+[go to code4mk for better view](https://code4mk.org/javascript-developer/js/regex)
+
 ## resource
 
 * [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
