@@ -20,6 +20,7 @@
 ```
 
 * [demo](https://regexr.com/3nt90)
+---
 
 * [previous](https://github.com/code4mk/lets-regex/blob/master/group-set.md)
 * [Next](https://github.com/code4mk/lets-regex/blob/master/resource.md)
