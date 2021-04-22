@@ -17,6 +17,7 @@
 ## online test
 
 * [https://regexr.com/](https://regexr.com/)
+* [ihateregex](https://ihateregex.io/)
 
 ---
 
